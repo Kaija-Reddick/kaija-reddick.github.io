@@ -52,4 +52,24 @@ FROM employees
 WHERE department = 'Finance'
    OR department = 'Sales';
 
+## 🖼 Evidence & Screenshots
+
+![Failed Login Attempts](./assets/sql-failed-login.png)
+*Filtered results showing multiple failed authentication attempts.*
+
+---
+
+![Date-Based Filtering](./assets/sql-date-filter.png)
+*Logs scoped to a specific time window for incident analysis.*
+
+---
+
+![Geo-Based Filtering](./assets/sql-geo-filter.png)
+*Login attempts originating outside Mexico for anomaly detection.*
+
+---
+
+![Access Control Review](./assets/sql-access-review.png)
+*Employees in sensitive departments: Finance and Sales.*
+
   
