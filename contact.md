@@ -2,7 +2,7 @@
 
 I'd love to connect and discuss cybersecurity roles or projects.
 
-📧 Email: **[your email]**  
+📧 Email: **Kaija.kei@gmail.com**  
 🔗 LinkedIn: **[your LinkedIn profile]**
 
 Thanks for visiting my portfolio! 🔐
