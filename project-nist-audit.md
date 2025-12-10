@@ -63,9 +63,19 @@ The security team blocked the attack traffic and temporarily shut down non-criti
 
 ---
 
-## 🧾 Evidence & Screenshots
+## 🖼 Evidence & Screenshots
 
-📌 Screenshots of the **analysis notes** and **CSF mapping** will be added here:
+![DoS Incident Summary](./assets/dos-summary.png)
+*Screenshot: High-level overview of the incident’s impact and timeline.*
+
+![NIST CSF Table](./assets/dos-nist-table.png)
+*Screenshot: Gaps highlighted across the five NIST CSF functions.*
+
+![Recommendations + Recovery](./assets/dos-recommendations.png)
+*Screenshot: Actionable improvements aligned to business continuity.*
+
+
+
 
 > ![DoS Incident Analysis Notes](./assets/incident-note-1.png)
 > *Notes describing the event, weaknesses, and NIST-aligned improvements.*
