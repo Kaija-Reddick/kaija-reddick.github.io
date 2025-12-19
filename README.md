@@ -60,7 +60,7 @@ Hands-on use of Linux CLI tools for log analysis, file inspection, and identifyi
 
 ## 📫 Contact Me
 
-**Email:** add your email here  
-**LinkedIn:** add your LinkedIn URL here  
+**Email:** Kaija.kei@gmail.com  
+**LinkedIn:** www.linkedin.com/in/kaija-reddick-2aa93217b  
 
 I’m actively building skills for SOC and cybersecurity roles — feel free to connect!
